@@ -1,5 +1,5 @@
 # git_test
-my first git rep!
+my first git rep!\ujb 
 sup odin
 mvjfrnvirkolcv
-ncucijko
+ncucijkogit 
